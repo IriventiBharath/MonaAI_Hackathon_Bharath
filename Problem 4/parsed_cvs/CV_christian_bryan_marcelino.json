@@ -1,0 +1,78 @@
+{
+  "name": "Christian Bryan Marcelino",
+  "title": "FRONTEND DEVELOPER",
+  "contact": {
+    "email": "christian.marcelino@mona-ai.de",
+    "phone": "+49 681 4471 2231",
+    "github_url": "https://github.com/cbmarcelino",
+    "linkedin_url": "https://linkedin.com/in/christian-marcelino"
+  },
+  "skills": [
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Angular",
+    "Java",
+    "Python",
+    "C",
+    "Firestore",
+    "Google Cloud Platform",
+    "REST APIs",
+    "Web Security"
+  ],
+  "profile_summary": "Frontend developer at Mona AI with a cybersecurity background, focused on building accessible, performant interfaces in React and Angular. Comfortable across the stack with Java, Python and Google Cloud, and security-conscious by training.",
+  "experience": [
+    {
+      "title": "Frontend Developer",
+      "company": "Mona AI",
+      "dates": "2024 – Present",
+      "bullets": [
+        "Develop and maintain the product's React and Angular frontend, owning component architecture and UI quality.",
+        "Integrate frontends with backend REST APIs and Firestore on Google Cloud Platform.",
+        "Apply secure-by-design practices from a cybersecurity background to frontend and data handling."
+      ]
+    },
+    {
+      "title": "Working Student – Software Development",
+      "company": "Mona AI",
+      "dates": "2022 – 2024",
+      "bullets": [
+        "Contributed to frontend features in React/Angular alongside full-time studies.",
+        "Built internal tooling in Python and Java and supported GCP/Firestore data workflows."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. Cybersecurity",
+      "institution": "Saarland University",
+      "dates": "2020 – 2024"
+    }
+  ],
+  "certifications": [
+    "Google Associate Cloud Engineer"
+  ],
+  "languages": [
+    "English Fluent",
+    "Indonesian Native",
+    "German Professional"
+  ],
+  "analysis": {
+    "bullshit_score": 70,
+    "verdict": "Suspicious",
+    "explanation": "The CV presents a coherent career path and skill set, with education and experience aligning well. However, the inability to access both the provided GitHub and LinkedIn profiles raises significant concerns about the candidate's online professional presence and the veracity of the contact information.",
+    "red_flags": [
+      "GitHub profile URL returned a 404 error, indicating the profile does not exist or is incorrect.",
+      "LinkedIn profile URL was not reachable, preventing verification of professional history and connections."
+    ],
+    "positive_signals": [
+      "Career timeline is consistent with education and experience.",
+      "Skills listed are supported by job descriptions and education.",
+      "Education and certifications align with claimed expertise."
+    ],
+    "link_results": {
+      "https://github.com/cbmarcelino": "not reachable (HTTP 404)",
+      "https://linkedin.com/in/christian-marcelino": "not reachable (HTTP 999)"
+    }
+  }
+}

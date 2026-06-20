@@ -1,0 +1,4 @@
+.env
+Gmail-MCP-Server
+gcp-oauth.keys.json
+secrets.toml

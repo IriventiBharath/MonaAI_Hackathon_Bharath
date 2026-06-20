@@ -1,0 +1,82 @@
+{
+  "name": "Daniel Schäfer",
+  "title": "SALES MANAGER",
+  "contact": {
+    "email": "daniel.schaefer@mona-ai.de",
+    "phone": "+49 69 5520 1184",
+    "github_url": null,
+    "linkedin_url": "linkedin.com/in/daniel-schaefer-sales"
+  },
+  "skills": [
+    "Enterprise Sales",
+    "Pipeline Management",
+    "Negotiation",
+    "Account Strategy",
+    "Salesforce CRM",
+    "Forecasting",
+    "Solution Selling",
+    "Contract Closing"
+  ],
+  "profile_summary": "B2B sales manager with a track record of building pipeline and closing enterprise deals for software and AI products. Owns the full sales cycle from prospecting to negotiation and leads account strategy across the DACH region.",
+  "experience": [
+    {
+      "title": "Sales Manager",
+      "company": "Mona AI",
+      "dates": "2023 – Present",
+      "bullets": [
+        "Own the full B2B sales cycle for Mona AI — prospecting, demos, negotiation and close.",
+        "Built and manage the DACH sales pipeline and consistently exceeded quarterly quota.",
+        "Develop key enterprise accounts and partner with product on customer requirements.",
+        "Established the company's CRM hygiene, forecasting cadence and sales playbook."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Vertiqo Cloud",
+      "dates": "2019 – 2023",
+      "bullets": [
+        "Closed mid-market and enterprise SaaS deals across manufacturing and finance verticals.",
+        "Grew named-account revenue through upsell and multi-year renewals."
+      ]
+    },
+    {
+      "title": "Sales Development Representative",
+      "company": "Northwind Systems",
+      "dates": "2017 – 2019",
+      "bullets": [
+        "Generated qualified pipeline through outbound prospecting and discovery calls."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. Business & Economics",
+      "institution": "Goethe University Frankfurt",
+      "dates": "2013 – 2017"
+    }
+  ],
+  "certifications": [
+    "SPIN Selling Certified",
+    "Salesforce Certified Administrator"
+  ],
+  "languages": [
+    "German Native",
+    "English Fluent"
+  ],
+  "analysis": {
+    "bullshit_score": 65,
+    "verdict": "Suspicious",
+    "explanation": "The CV exhibits good internal consistency regarding career progression, skills, and education. However, the provided LinkedIn profile URL was not reachable, which significantly hinders external verification of the candidate's professional presence and claims.",
+    "red_flags": [
+      "LinkedIn profile URL not reachable, preventing external verification."
+    ],
+    "positive_signals": [
+      "Consistent career progression from SDR to Sales Manager.",
+      "Skills listed align well with described job responsibilities.",
+      "Relevant educational background."
+    ],
+    "link_results": {
+      "https://linkedin.com/in/daniel-schaefer-sales": "not reachable (HTTP 999)"
+    }
+  }
+}

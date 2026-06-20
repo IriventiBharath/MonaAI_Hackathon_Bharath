@@ -1,0 +1,82 @@
+{
+  "name": "Qiuchan He",
+  "title": "AI ENGINEER",
+  "contact": {
+    "email": "qiuchan.he@mona-ai.de",
+    "phone": "+49 681 4471 2245",
+    "github_url": "github.com/qiuchan-he",
+    "linkedin_url": "linkedin.com/in/qiuchan-he"
+  },
+  "skills": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "REST APIs",
+    "Angular",
+    "React",
+    "Machine Learning",
+    "UI/UX Design",
+    "Data Visualization"
+  ],
+  "profile_summary": "AI engineer bridging machine learning and product, with a master's in Data Science & AI. Builds end-to-end features — from Python ML services and REST APIs to polished Angular and React interfaces with a strong eye for UI/UX.",
+  "experience": [
+    {
+      "title": "AI Engineer",
+      "company": "Mona AI",
+      "dates": "Feb 2026 – Present",
+      "bullets": [
+        "Build AI-powered product features end-to-end, from Python model services to Angular/React UI.",
+        "Design and ship REST APIs connecting ML pipelines to the frontend.",
+        "Own UI/UX for AI features, turning model capabilities into intuitive user workflows."
+      ]
+    },
+    {
+      "title": "Working Student – AI & Development",
+      "company": "Mona AI",
+      "dates": "2024 – 2026",
+      "bullets": [
+        "Prototyped ML features in Python and integrated them into the product via REST APIs.",
+        "Implemented frontend components in Angular and React with a focus on usability."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. Data Science & Artificial Intelligence",
+      "institution": "Saarland University",
+      "dates": "2023 – 2026"
+    },
+    {
+      "degree": "B.Eng. Computer Science",
+      "institution": "Tongji University, China",
+      "dates": "2019 – 2023"
+    }
+  ],
+  "certifications": [
+    "DeepLearning.AI – Machine Learning Specialization"
+  ],
+  "languages": [
+    "Chinese Native",
+    "English Fluent",
+    "German Professional"
+  ],
+  "analysis": {
+    "bullshit_score": 25,
+    "verdict": "Slightly Suspicious",
+    "explanation": "The CV presents a coherent career path, but the rapid progression from a working student to an AI Engineer with end-to-end feature ownership within two years, while still pursuing a Master's degree, raises some questions about the depth of experience claimed. The GitHub profile also shows a mix of projects, some of which are course-related, which aligns with the education but doesn't strongly validate the 'end-to-end' AI Engineer claims.",
+    "red_flags": [
+      "Rapid progression to 'AI Engineer' with end-to-end responsibilities while still completing a Master's degree, potentially overstating practical experience.",
+      "GitHub profile contains several course projects, which, while relevant to education, don't fully demonstrate the depth of 'end-to-end' AI feature development claimed in the professional experience."
+    ],
+    "positive_signals": [
+      "Skills listed are consistently reflected in the job descriptions.",
+      "Timeline for education and experience is consistent with no significant gaps or overlaps.",
+      "Certifications align with the stated skills and career path.",
+      "LinkedIn URL is reachable, confirming the existence of the profile."
+    ],
+    "link_results": {
+      "https://github.com/qiuchan-he": "functional",
+      "https://linkedin.com/in/qiuchan-he": "functional"
+    }
+  }
+}

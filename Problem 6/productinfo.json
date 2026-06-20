@@ -1,0 +1,137 @@
+[
+  {
+    "sku": "ALK-FB-01",
+    "product": "Fuß Butter",
+    "line": "Feet",
+    "pack": "100 ml",
+    "price_eur": 7.71,
+    "peak_season": "Autumn–Winter",
+    "target_segment": "45+ dry-skin, women"
+  },
+  {
+    "sku": "ALK-FB-02",
+    "product": "Sole Fußbad",
+    "line": "Feet",
+    "pack": "400 g",
+    "price_eur": 6.49,
+    "peak_season": "Winter",
+    "target_segment": "Wellness, 50+"
+  },
+  {
+    "sku": "ALK-FB-03",
+    "product": "Hornhaut Reduziercreme",
+    "line": "Feet",
+    "pack": "50 ml",
+    "price_eur": 6.99,
+    "peak_season": "Spring (sandal prep)",
+    "target_segment": "Women 30–60"
+  },
+  {
+    "sku": "ALK-FB-04",
+    "product": "Hornhaut Entferner Maske",
+    "line": "Feet",
+    "pack": "2x20 ml",
+    "price_eur": 8.49,
+    "peak_season": "Spring–Summer",
+    "target_segment": "Women 25–45"
+  },
+  {
+    "sku": "ALK-FB-05",
+    "product": "10 % Urea Fußcreme",
+    "line": "Feet",
+    "pack": "100 ml",
+    "price_eur": 7.25,
+    "peak_season": "All year",
+    "target_segment": "Diabetic / very dry skin"
+  },
+  {
+    "sku": "ALK-FB-06",
+    "product": "Fußpflege Deospray",
+    "line": "Feet",
+    "pack": "75 ml",
+    "price_eur": 6.10,
+    "peak_season": "Summer",
+    "target_segment": "Active / men 20–45"
+  },
+  {
+    "sku": "ALK-LG-01",
+    "product": "5 in 1 Beinlotion",
+    "line": "Legs",
+    "pack": "200 ml",
+    "price_eur": 9.95,
+    "peak_season": "Summer",
+    "target_segment": "Women 35–65"
+  },
+  {
+    "sku": "ALK-LG-02",
+    "product": "Bein Frische Gel",
+    "line": "Legs",
+    "pack": "100 ml",
+    "price_eur": 8.20,
+    "peak_season": "Summer",
+    "target_segment": "Travel / standing jobs"
+  },
+  {
+    "sku": "ALK-LG-03",
+    "product": "Besenreiser Pflegebalsam",
+    "line": "Legs",
+    "pack": "100 ml",
+    "price_eur": 11.49,
+    "peak_season": "Spring–Summer",
+    "target_segment": "Women 40–65"
+  },
+  {
+    "sku": "ALK-MG-01",
+    "product": "Mobil Gel",
+    "line": "Muscles/Joints",
+    "pack": "100 ml",
+    "price_eur": 5.83,
+    "peak_season": "Autumn–Winter",
+    "target_segment": "Active 30+, 55+ joints"
+  },
+  {
+    "sku": "ALK-MG-02",
+    "product": "Mobil Einreibung Extra Stark",
+    "line": "Muscles/Joints",
+    "pack": "100 ml",
+    "price_eur": 8.90,
+    "peak_season": "Winter / sport",
+    "target_segment": "Sport, 25–55"
+  },
+  {
+    "sku": "ALK-MG-03",
+    "product": "Mobil Eisspray akut",
+    "line": "Muscles/Joints",
+    "pack": "150 ml",
+    "price_eur": 9.40,
+    "peak_season": "Sport season",
+    "target_segment": "Athletes, teams"
+  },
+  {
+    "sku": "ALK-MG-04",
+    "product": "Franzbranntwein",
+    "line": "Muscles/Joints",
+    "pack": "250 ml",
+    "price_eur": 6.75,
+    "peak_season": "All year",
+    "target_segment": "Traditional 55+"
+  },
+  {
+    "sku": "ALK-MG-05",
+    "product": "Wärmendes Intensiv Gel",
+    "line": "Muscles/Joints",
+    "pack": "100 ml",
+    "price_eur": 8.30,
+    "peak_season": "Winter",
+    "target_segment": "45+ tension/back"
+  },
+  {
+    "sku": "ALK-CB-01",
+    "product": "Ur Bonbons",
+    "line": "Cough drops",
+    "pack": "75 g",
+    "price_eur": 2.49,
+    "peak_season": "Cold season",
+    "target_segment": "Mass-market"
+  }
+]

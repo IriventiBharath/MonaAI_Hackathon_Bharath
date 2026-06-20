@@ -1,0 +1,4 @@
+google-genai
+docx2pdf
+python-dotenv
+tabulate
